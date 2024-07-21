@@ -8,7 +8,7 @@ Student @ Kamaraj College of engineering and technology
 - 🤔 I’m looking for help with Placements 
 
 - 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subashini-kannan-289a1125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[<img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/suba_kannan?igsh=eHgxanV5YjlybHFj)
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subashini-kannan-289a1125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[<img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/_suba_kannan_/)
 - 😄 Pronouns: Techie
 
 ### I code in
