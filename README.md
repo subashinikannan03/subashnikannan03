@@ -18,10 +18,15 @@ Student @ Kamaraj College of engineering and technology
 
 
 
+### I practice in
 
-
-
+### hacker rank
+(https://www.hackerrank.com/subashinikannan1/hackos)
+### skillrack
+(https://www.skillrack.com/faces/ui/profile.xhtml)
+### leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Subashinikannan?theme=dark&font=Lobster)
+
 
 
 
