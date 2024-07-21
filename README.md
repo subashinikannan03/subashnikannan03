@@ -21,6 +21,7 @@ Student @ Kamaraj College of engineering and technology
 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](![LeetCode Stats(https://leetcard.jacoblin.cool/Subashinikannan?theme=dark&font=Lobster))
+![LeetCode Stats](https://leetcard.jacoblin.cool/Subashinikannan?theme=dark&font=Lobster)](https://leetcode.com/Subashinikannan)
+
 
 
